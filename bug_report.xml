@@ -2,3 +2,5 @@
 <project>Project Name: "...".</project>
 <environment>Android 12</environment>
 <date>22.12.22</date>
+
+<bugReport>Bug Report</bugReport>
