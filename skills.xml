@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<Info>
+	<QACourses>
+		<Course1>Manual QA Engineer. Udemy, online courses.</Course1>
+		<Course2>Vadim Kzendzov's QA Course.</Course2>
+	</QACourses>
+	<Syllabus>
+		Software testing theory
+        Writing test documentation (test cases, checklists, bug reports)
+        Mobile and web app testing
+        Database testing (JOIN and SELECT requests)
+        API testing
+        GIT
+        BASH
+        POSTMAN
+        Fiddler and Charles Proxy
+        Jira and Azure DevOps
+	</Syllabus>
+	
+	<languages>Languages: Russian (native), English (C1).</languages>
+</Info>
